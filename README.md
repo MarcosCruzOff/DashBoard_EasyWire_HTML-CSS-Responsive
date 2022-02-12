@@ -1,1 +1,1 @@
-# DashBoard_EasyWire_HTML-CSS-Responsive
+# DashBoard - EasyWire: HTML-CSS-Responsive
